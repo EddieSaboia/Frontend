@@ -28,13 +28,12 @@ Um sistema de gerenciamento de tasks desenvolvido com React, TypeScript e Vite. 
 src/
 ├── components/          # Componentes reutilizáveis
 │   └── ConfirmationModal.tsx
+│   ├── Sidebar.tsx
 ├── pages/              # Páginas da aplicação
 │   ├── Home.tsx
 │   ├── Tasks.tsx
 │   ├── NewTask.tsx
 │   └── EditTask.tsx
-├── shared/             # Componentes compartilhados
-│   └── Sidebar.tsx
 ├── test/               # Arquivos de teste
 │   ├── setup.ts
 │   ├── NewTask.test.tsx
